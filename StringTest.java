@@ -11,5 +11,5 @@
  * @since 2018年01月30日
  */
 public class StringTest {
-    
+
 }
